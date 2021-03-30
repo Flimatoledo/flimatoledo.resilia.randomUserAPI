@@ -19,7 +19,7 @@ para rodar o programa, no console, execute o:
 4- node index.js 
 
 
-Será retornado no console um usuário com a seguinte extrutura: 
+Será retornado no console um usuário com a seguinte estrutura: 
 
 ![image](https://user-images.githubusercontent.com/75772611/112925009-83eb1980-90e7-11eb-892d-52e34f29fdd5.png)
 
