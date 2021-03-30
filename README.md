@@ -36,4 +36,4 @@ Será retornado no console um usuário com a seguinte extrutura:
   }
   
   
-  Sé for visualizado, é porque tudo está funcionando!
+  Se for visualizado, é porque tudo está funcionando!
