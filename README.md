@@ -21,17 +21,8 @@ para rodar o programa, no console, execute o:
 
 Será retornado no console um usuário com a seguinte extrutura: 
 
-{
-  id: 76,
-  firstName: 'Larissa',
-  lastName: 'Carvalho',
-  gender: 'Gender Questioning',
-  birthDay: '09/01/2021',
-  email: 'Lorenzo.Barros18@gmail.com',
-  password: '39X6Kdmvy_F3eRp'
-}
+![image](https://user-images.githubusercontent.com/75772611/112925009-83eb1980-90e7-11eb-892d-52e34f29fdd5.png)
 
-Example app listening at http://localhost:3000
 
 
   
