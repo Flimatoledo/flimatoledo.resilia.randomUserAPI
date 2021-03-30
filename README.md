@@ -30,6 +30,7 @@ Será retornado no console um usuário com a seguinte extrutura:
   email: 'Lorenzo.Barros18@gmail.com',
   password: '39X6Kdmvy_F3eRp'
 }
+
 Example app listening at http://localhost:3000
 
   
