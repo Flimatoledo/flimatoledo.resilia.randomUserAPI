@@ -33,6 +33,7 @@ Será retornado no console um usuário com a seguinte extrutura:
 
 Example app listening at http://localhost:3000
 
+
   
   
   Se for visualizado, é porque tudo está funcionando!
