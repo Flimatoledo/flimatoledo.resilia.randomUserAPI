@@ -22,18 +22,16 @@ para rodar o programa, no console, execute o:
 Será retornado no console um usuário com a seguinte extrutura: 
 
 {
-    
-      id: id++,
-      firstName: faker.name.firstName(),
-      lastName: faker.name.lastName(),
-      gender: faker.name.gender(),
-      birthDay: new Intl.DateTimeFormat("pt-br", {}).format(
-        new Date(faker.date.past())
-      ),
-      email: faker.internet.email(),
-      password: faker.internet.password(),
-    
-  }
+  id: 76,
+  firstName: 'Larissa',
+  lastName: 'Carvalho',
+  gender: 'Gender Questioning',
+  birthDay: '09/01/2021',
+  email: 'Lorenzo.Barros18@gmail.com',
+  password: '39X6Kdmvy_F3eRp'
+}
+Example app listening at http://localhost:3000
+
   
   
   Se for visualizado, é porque tudo está funcionando!
